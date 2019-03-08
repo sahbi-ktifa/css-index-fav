@@ -3,6 +3,7 @@
 import Vue from 'vue'
 import App from './App'
 import InstantSearch from 'vue-instantsearch'
+import 'instantsearch.css/themes/algolia-min.css'
 
 Vue.use(InstantSearch)
 Vue.config.productionTip = false

@@ -25,7 +25,6 @@
 <script>
 import algoliasearch from 'algoliasearch/lite'
 import CssResult from './CssResult'
-import 'instantsearch.css/themes/algolia-min.css'
 
 export default {
   name: 'SearchUi',
